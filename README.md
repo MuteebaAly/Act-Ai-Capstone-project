@@ -76,7 +76,7 @@ StudyMatch AI is designed for:
 
 **Application URL**
 
-https://YOUR-LIVE-URL.vercel.app
+https://studymatch-ai-platfo-8tbi.bolt.host/#/
 
 ---
 
