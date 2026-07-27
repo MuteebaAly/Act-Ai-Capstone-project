@@ -14,6 +14,19 @@ StudyMatch AI aims to make scholarship searching faster, easier, and more organi
 
 ---
 
+## 📸 Screenshots & Visual Preview
+
+
+| 🔐 User Registration | 👤 Student Profile |
+| :---: | :---: |
+| ![Registration Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/registration.png) | ![Profile Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/profile.png) |
+
+| 🎓 Scholarship Search | 🔔 Notifications & Alerts |
+| :---: | :---: |
+| ![Search Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/search.png) | ![Notification Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/notification.png) |
+
+---
+
 # ❗ Problem Statement
 
 Students who plan to study abroad often struggle to find authentic scholarship opportunities because information is scattered across multiple university websites. Every university has different admission requirements, funding categories, eligibility criteria, and application deadlines.
