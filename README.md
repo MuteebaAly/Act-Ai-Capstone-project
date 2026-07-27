@@ -19,11 +19,11 @@ StudyMatch AI aims to make scholarship searching faster, easier, and more organi
 
 | 🔐 User Registration | 👤 Student Profile |
 | :---: | :---: |
-| ![Registration Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/registration.png) | ![Profile Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/profile.png) |
+| ![Registration Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/registration.png) | ![Profile Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/profile_page.png) |
 
 | 🎓 Scholarship Search | 🔔 Notifications & Alerts |
 | :---: | :---: |
-| ![Search Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/search.png) | ![Notification Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/notification.png) |
+| ![Search Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/scholarships.jpeg) | ![Notification Screenshot](https://raw.githubusercontent.com/MuteebaAly/Act-Ai-Capstone-project/main/docs/screenshots/notification.jpeg) |
 
 ---
 
